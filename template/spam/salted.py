@@ -1,0 +1,2 @@
+SALTY_SWEETNESS = 'minimum'
+SALTY_SALTYNESS = 'maximum'
